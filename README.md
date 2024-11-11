@@ -1,2 +1,2 @@
 # papers
-Content I wrote on various subjects which are not necessarily related to programming
+Content I wrote on various subjects, not necessarily related to programming
